@@ -10,7 +10,7 @@ void main() { runApp(
           ),
           body: Center(
             child: Image(
-              image: NetworkImage('https://elearning.msu.ac.zw/assets/pictures/R171767H.JPG'),
+              image: AssetImage('images/diamond.png'),
             ),
           )
         )
